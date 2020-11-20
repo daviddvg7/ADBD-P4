@@ -19,10 +19,14 @@
 ![enter image description here](Relacionales/Viveros.png)
 
 
+![enter image description here](Scripts/viveros.png)
+
 ### Catastros
 
 ![enter image description here](Relacionales/Catastros.png)
 
 
-## NOTA
-Por diversos errores con los scripts generados que no he sido capaz de solucionar, no he podido crear las tablas en SQL. Esta semana pediré tutorías para intentar solucionar este error.
+![enter image description here](Scripts/catastros.png)
+
+
+![enter image description here](Scripts/databases.png)
